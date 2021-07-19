@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @skyber71
+- 👋 Hi, I’m skyber(Kiran Yadav)
 - 👀 I’m interested in competitive coding and softwarer development.
 - 🌱 I’m currently learning C++ and Python and pursuing my B.Tech Degree.
 - 💞️ I’m looking to collaborate on ...
