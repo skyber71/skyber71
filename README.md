@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Kiran Yadav
 - 👀 I’m interested in competitive coding and softwarer development.
 - 🌱 I’m currently learning C++ and Python and pursuing my B.Tech Degree.
-- 📫 You can reach me on my mail ID --> mail.skyber71@gmail.com
