@@ -4,7 +4,7 @@ Hi 👋 My name is Kiran Yadav
 Computer Science Student
 ------------------------
 
-I am a B.Tech Undergrad at D Y Patil International University Pune batch of 20-24. Currently in development and data structure & algorithms.
+I am a B.Tech Undergrad at D Y Patil International University Pune batch of 20-24. Currently in development, data structure & algorithms.
 
 * 🌍  I'm based in Pune, Maharashtra
 * 🖥️  See my portfolio at [MyPortfolio](http://kiranyadav.me)
