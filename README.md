@@ -7,7 +7,7 @@ Computer Science Student
 I am a B.Tech Undergrad at D Y Patil International University Pune batch of 20-24. Currently in development, data structure & algorithms.
 
 * 🌍  I'm based in Pune, Maharashtra
-* 🖥️  See my portfolio at [MyPortfolio](http://kiranyadav.me)
+* 🖥️  See my portfolio at [MyPortfolio](https://skyber71.github.io/portfolio/)
 * ✉️  You can contact me at [mail.skyber71@gmail.com](mailto:mail.skyber71@gmail.com)
 
 ### Skills
