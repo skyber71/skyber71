@@ -32,4 +32,4 @@ I am a B.Tech Undergrad at D Y Patil International University Pune batch of 20-2
 
 ### Badges
 
-<a href="https://github.com/skyber71" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyber71&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<!-- <a href="https://github.com/skyber71" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyber71&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
